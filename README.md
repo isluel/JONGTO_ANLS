@@ -17,6 +17,7 @@
 ## Total
 
 ### 흐름도
+![image](https://github.com/user-attachments/assets/15d82755-4976-401b-8b42-e3897a165b7f)
 
 ### 사용 환경
 
@@ -37,8 +38,10 @@ Intellij, Spring boot, Spring boot batch, Docker, MySQL, Python
 - Item Writer는 Processor로 부터 전달 받은 데이터를 저장한다.
 
 ### 흐름도
+![image](https://github.com/user-attachments/assets/a766e0ca-97e4-40dd-b00b-8bd7f4123f68)
 
 ### Repository
+ ![image](https://github.com/user-attachments/assets/afbd803f-da1b-4a1e-90ed-6228d5fdd536)
 
 
 ## Step - Sentiment
@@ -54,8 +57,10 @@ Intellij, Spring boot, Spring boot batch, Docker, MySQL, Python
 - Item Writer는 Processor로 부터 전달 받은 데이터를 저장한다.
 
 ### 흐름도
+![image](https://github.com/user-attachments/assets/30037d50-6322-43c7-861c-11021cc3b378)
 
 ### Repository
+![image](https://github.com/user-attachments/assets/d0d7c570-e148-4fd1-b222-b3561ae790f1)
 
 
 ## Step - Stock
@@ -71,8 +76,10 @@ Intellij, Spring boot, Spring boot batch, Docker, MySQL, Python
 - Item Writer는 Processor로 부터 전달 받은 데이터를 저장한다.
 
 ### 흐름도
+![image](https://github.com/user-attachments/assets/a04565c9-8d96-4b7a-983d-c1391527ffb7)
 
 ### Repository
+![image](https://github.com/user-attachments/assets/8aed3dc1-753f-4d60-8f52-d5729d66b484)
 
 ## 분석 화면
 
@@ -81,3 +88,6 @@ Intellij, Spring boot, Spring boot batch, Docker, MySQL, Python
 - 주식과 조회 일자에 대해 감석 분석 결과, 종토방 내역을 표시한다.
 
 ### 화면 구성도
+![image](https://github.com/user-attachments/assets/c22a1484-6ed8-4eb4-a94d-b324132a20d6)
+![image](https://github.com/user-attachments/assets/24157938-6a86-4447-8bae-aa4497e59e5a)
+
